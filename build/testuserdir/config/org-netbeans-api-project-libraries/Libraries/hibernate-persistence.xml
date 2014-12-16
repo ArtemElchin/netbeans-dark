@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.netbeans.org/ns/library-declaration/3" version="3.0">
+    <name>hibernate4-persistence</name>
+    <type>j2se</type>
+    <localizing-bundle>org/netbeans/modules/hibernate4lib/resources/Bundle</localizing-bundle>
+    <volume>
+        <type>classpath</type>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/antlr-2.7.7.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/c3p0-0.9.2.1.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/hibernate-c3p0-4.2.6.Final.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/dom4j-1.6.1.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/ehcache-core-2.4.3.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/hibernate-ehcache-4.2.6.Final.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/hibernate-core-4.2.6.Final.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/jboss-logging-3.1.0.GA.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/hibernate-commons-annotations-4.0.2.Final.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/hibernate-entitymanager-4.2.6.Final.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/javassist-3.15.0-GA.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/jboss-transaction-api_1.1_spec-1.0.1.Final.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/slf4j-api-1.6.1.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/slf4j-simple-1.6.1.jar!/</resource>
+        <resource>jar:nbinst://org.netbeans.modules.hibernate4lib/modules/ext/hibernate4/hibernate-jpa-2.0-api-1.0.1.Final.jar!/</resource>
+        <resource>jar:file:/C:/Program%20Files/NetBeans%208.0/java/modules/ext/hibernate4/javolution-core-java-6.0.1-20130819.063134-2.jar!/</resource>
+    </volume>
+    <volume>
+        <type>src</type>
+    </volume>
+    <volume>
+        <type>javadoc</type>
+    </volume>
+    <volume>
+        <type>maven-pom</type>
+    </volume>
+    <properties>
+        <property>
+            <name>maven-dependencies</name>
+            <value>
+                org.hibernate:hibernate-entitymanager:4.2.6.Final:jar
+            </value>
+        </property>
+    </properties>
+</library>

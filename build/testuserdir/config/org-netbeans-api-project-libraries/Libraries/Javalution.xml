@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.netbeans.org/ns/library-declaration/3" version="3.0">
+    <name>Javalution</name>
+    <type>j2se</type>
+    <display-name>Javalution</display-name>
+    <volume>
+        <type>classpath</type>
+        <resource>jar:file:/C:/Program%20Files/NetBeans%208.0/java/modules/ext/javolution-5.5.0.jar!/</resource>
+        <resource>jar:file:/E:/struct-dissector/lib/lib-common.jar!/</resource>
+        <resource>jar:file:/E:/struct-dissector/lib/lib-field.jar!/</resource>
+        <resource>jar:file:/E:/struct-dissector/lib/sub-protocol.jar!/</resource>
+    </volume>
+    <volume>
+        <type>src</type>
+    </volume>
+    <volume>
+        <type>javadoc</type>
+    </volume>
+    <volume>
+        <type>maven-pom</type>
+    </volume>
+    <properties/>
+</library>

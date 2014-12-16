@@ -1,0 +1,7 @@
+||:Theme.Installer
+java.awt.Color
+java.lang.System
+org.openide.modules.ModuleInstall
+java.lang.IllegalStateException
+Theme.Installer
+javax.swing.UIManager

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: Theme
+OpenIDE-Module-Install: Theme/Installer.class
+OpenIDE-Module-Localizing-Bundle: Theme/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

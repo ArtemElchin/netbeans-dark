@@ -1,0 +1,761 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+	<title>Planet NetBeans</title>
+	<link>http://www.planetnetbeans.org/</link>
+	<language>en</language>
+	<description>Planet NetBeans - http://www.planetnetbeans.org/</description>
+
+<item>
+	<title>Adam Bien: Pico Services with Java EE 7 on Java 8 and Docker: Devoxx 2014 Presentation</title>
+	<guid isPermaLink="false">http://www.adam-bien.com/roller/abien/entry/pico_services_with_java_ee</guid>
+	<link>http://www.adam-bien.com/roller/abien/entry/pico_services_with_java_ee</link>
+	<description>&#60;p&#62;
+After introducing &#60;a href=&#34;http://www.adam-bien.com/roller/abien/entry/building_nanoservices_with_java_8&#34; target=&#34;_blank&#34;&#62;Nanoservices&#60;/a&#62;, now it is time for some Pico: 
+&#60;/p&#62;
+&#60;div style=&#34;width: 100%; height: 300px;&#34;&#62;&#60;/div&#62;
+&#60;p&#62;
+See you at:&#60;a href=&#34;http://workshops.adam-bien.com/microservices.htm&#34; target=&#34;_blank&#34;&#62;Java EE Microservices Workshop in MUC!&#60;/a&#62; or &#60;a href=&#34;http://workshops.adam-bien.com/custom.htm&#34; target=&#34;_blank&#34;&#62;Dedicated Virtual Workshops&#60;/a&#62;.
+&#60;/p&#62;
+	&#60;br /&#62;
+    &#60;a href=&#34;http://workshops.adam-bien.com&#34;&#62;Real World Java EE Workshops [Airport Munich]&gt;&#60;/a&#62;
+	&#60;p&#62;&#60;/p&#62;</description>
+	<pubDate>Tue, 16 Dec 2014 05:10:07 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: Tiling of Editor Documents in NetBeans Platform Applications</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/tiling_of_editor_documents_in</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/tiling_of_editor_documents_in</link>
+	<description>&#60;p&#62;A very exciting development for NetBeans users (and developers of applications based on the NetBeans Platform) everywhere.&#60;/p&#62; 
+  &#60;p&#62;Take a look at the screenshot below.&#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/tiling-nb-1.png&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;Take a look at it again, in particular the buttons within the red rectangle:&#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/tiling-nb-2.png&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;Right now, as you can see, those buttons are disabled. Now, however, because more than one document is open, those buttons are enabled:&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/tiling-nb-3.png&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;The buttons are for tiling the editor documents. Here you can see the effect of clicking &#34;Tile Evenly&#34;, which is the third of the four buttons:&#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/tiling-nb-4.png&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;And this is &#34;Tile Vertically&#34;:&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/tiling-nb-5.png&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;There's also &#34;Tile Horizontally&#34; and &#34;Tile Single&#34; (which untiles the tiled documents). &#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;If you'd like this in NetBeans IDE, download the plugin here (restart NetBeans after installing the plugin), while this is also a plugin that is relevant to any other application on the NetBeans Platform that has editor documents. These documents can either be actual text editors or TopComponents of some other kind, e.g., GUI components where the user should be able to enter data of some kind.&#60;/p&#62; 
+  &#60;p&#62;&#60;a href=&#34;http://plugins.netbeans.org/plugin/56815/?show=true&#34;&#62;http://plugins.netbeans.org/plugin/56815&#60;/a&#62;&#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;The source code of the above is here, so that you can integrate it into your own NetBeans Platform application, and where you can also read more about it, including the implementation code, of course:&#60;/p&#62; 
+  &#60;p&#62;&#60;a href=&#34;https://github.com/GeertjanWielenga/TiledNetBeansEditors&#34;&#62;https://github.com/GeertjanWielenga/TiledNetBeansEditors &#60;/a&#62;&#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;Many thanks to Norman Fomferra and others from &#60;a href=&#34;http://www.brockmann-consult.de/&#34;&#62;Brockmann Consult&#60;/a&#62; in Germany, who created and open sourced this solution as part of the ESA Sentinel Toolbox, a NetBeans Platform application that is being created for the European Space Agency:&#60;/p&#62; 
+  &#60;p&#62;&#60;a href=&#34;https://github.com/senbox-org/snap-desktop%20&#34;&#62;https://github.com/senbox-org/snap-desktop &#60;/a&#62;&#60;/p&#62; 
+  &#60;p&#62;Here's the ESA home of the Sentinal Toolboxes:&#60;/p&#62; 
+  &#60;p&#62;&#60;a href=&#34;https://sentinel.esa.int/web/sentinel/toolboxes&#34;&#62; https://sentinel.esa.int/web/sentinel/toolboxes&#60;/a&#62;&#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;They've extended the tiling idioms already, so that they now have tileable internal desktops, i.e., workspaces, with floating TopComponents. &#60;br /&#62;&#60;br /&#62;&#60;a href=&#34;https://blogs.oracle.com/geertjan/resource/hfeecfdb.jpg&#34;&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/hfeecfdb-small.jpg&#34; /&#62;&#60;/a&#62;&#60;br /&#62;&#60;br /&#62;They'll be separating out this solution, so that this will be pluggable, and the sources available separately, too. Pretty cool having rocket scientists (OK, they'll deny they're that, but they work in the space industry and are computer scientists, which to me means you're a rocket scientist) working on NetBeans code, isn't it? :-)&#60;br /&#62;&#60;/p&#62;</description>
+	<pubDate>Mon, 15 Dec 2014 17:47:26 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: NetBeans Tools for Teachers: Quick Runtime Properties Setter</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/netbeans_tools_for_teachers_quick</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/netbeans_tools_for_teachers_quick</link>
+	<description>&#60;p&#62;Imagine you're a teacher. You're teaching a Java course and your students turn in their homework exercises in the form of NetBeans projects. Now you have thirty NetBeans projects, many of them open in NetBeans IDE. For each of them, you need to load an external file as an argument to the main class. Then that file is processed and you can then see whether the code works as expected.&#60;/p&#62;
+  &#60;p&#62;To set the file as an argument for a project, you need to right-click the NetBeans project, choose Properties, and then go to the Run tab, where you can set the runtime argument. That's a lot of tedious work for 30 different projects, plus sometimes you need to change the argument because you want to run a different file or some other set of arguments against the code that your students have provided.&#60;/p&#62;
+  &#60;p&#62; Precisely this problem was described to me at the Hanzehogeschool in Groningen &#60;a href=&#34;https://blogs.oracle.com/geertjan/entry/netbeans_ide_workshop_at_hanze&#34;&#62;some weeks ago&#60;/a&#62; by Michiel Noback, who is one of the teachers there. In the first implementation of the solution, I created a plugin that lets you type the runtime arguments of the current project in the status bar. But, of course, then new requirements came in, one of which was to have some kind of history of the entered arguments, so that the teacher can easily reuse previously used arguments. The status bar isn't a good place for this, since a drop-down list of some kind is needed, so I moved the feature into the toolbar:&#60;/p&#62;
+  &#60;p&#62;&#60;a href=&#34;https://blogs.oracle.com/geertjan/resource/toolbar-qrps2.png&#34;&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/toolbar-qrps3.png&#34; /&#62;&#60;/a&#62; &#60;/p&#62;
+  &#60;p&#62;Take note of the drop-down list in the toolbar above. How to use this feature? Firstly, make sure a file is open from the project where you want to set the runtime properties via the drop-down list in the toolbar. It can be any file from that project, most logically it would be a Java source file, since that's where you'll be focused on when examining a student's work. Then go to the drop-down list in the toolbar and type the arguments you'd like to pass into the constructor of the application. Then, importantly, press Enter. When you press Enter, a change is made to the project.properties file where the runtime arguments are defined. At the same time, the arguments you entered are added to the list in the drop-down, so that you can later look in that list, find the arguments you'd like to reuse, and then press Enter again to apply them to some other current project you're looking at.&#60;/p&#62;
+  &#60;p&#62;Get the plugin here, works in NetBeans IDE 8.0.2: &#60;/p&#62;
+  &#60;p&#62;&#60;a href=&#34;http://plugins.netbeans.org/plugin/56693/?show=true&#34;&#62;http://plugins.netbeans.org/plugin/56693&#60;/a&#62;&#60;br /&#62;&#60;/p&#62;
+  &#60;p&#62;Apparently there's a bug with this, related to setting breakpoints, but I haven't been able to reproduce that problem yet.&#60;br /&#62;&#60;/p&#62;</description>
+	<pubDate>Sun, 14 Dec 2014 11:51:50 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: YouTube: Integrate Code Templates into Code Completion</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/youtube_integrate_code_templates_into</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/youtube_integrate_code_templates_into</link>
+	<description>&#60;p&#62;When you assign a code template to a context, the Code Completion box will show your code template in the context where you're working. Nice and powerful and hidden tip, watch it in action here:&#60;/p&#62; 
+  &#60;p&#62; 
+     
+  &#60;/p&#62;
+&#60;p&#62;Related discussion: &#60;a href=&#34;https://netbeans.org/bugzilla/show_bug.cgi?id=212176&#34;&#62;https://netbeans.org/bugzilla/show_bug.cgi?id=212176&#60;/a&#62;&#60;/p&#62;</description>
+	<pubDate>Sat, 13 Dec 2014 13:23:55 +0000</pubDate>
+</item>
+<item>
+	<title>NetBeans DZone: Clement Levallois: My Five Favorite NetBeans IDE Features!</title>
+	<guid isPermaLink="false">http://netbeans.dzone.com/185949 at http://netbeans.dzone.com</guid>
+	<link>http://feeds.dzone.com/~r/zones/netbeans/~3/MK1FS2zvGNU/5-favorite-netbeans-features-clementlevallois</link>
+	<description>Continuing a series of articles focusing on NetBeans users and their five favorite NetBeans IDE features, here's the next part, by Clement Levallois. -- NetBeans team.
+      Preview Text: 
+    
+            
+                    Robustness, code generation, hints, Java EE and more! Find out what Clement Levallois from Lyon, France, likes about NetBeans IDE.        
+        
+
+Legacy
+     ...&#60;img src=&#34;http://feeds.feedburner.com/~r/zones/netbeans/~4/MK1FS2zvGNU&#34; alt=&#34;&#34; height=&#34;1&#34; width=&#34;1&#34; /&#62;</description>
+	<pubDate>Sat, 13 Dec 2014 09:49:48 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: YouTube: Code Templates in NetBeans IDE</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/youtube_code_templates_in_netbeans</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/youtube_code_templates_in_netbeans</link>
+	<description>&#60;p&#62;Everything you need to know about where and how to find, display, and configure code templates in NetBeans IDE!&#60;/p&#62;
+   &#60;p&#62; 
+         
+      &#60;/p&#62;</description>
+	<pubDate>Fri, 12 Dec 2014 23:10:51 +0000</pubDate>
+</item>
+<item>
+	<title>Adam Bien: Changing Working Directories In Nashorn Scripting</title>
+	<guid isPermaLink="false">http://www.adam-bien.com/roller/abien/entry/changing_working_directories_in_nashorn</guid>
+	<link>http://www.adam-bien.com/roller/abien/entry/changing_working_directories_in_nashorn</link>
+	<description>&#60;p&#62;
+Assigning a directory name to the $ENV.PWD variable: &#60;code&#62;$ENV.PWD=&#34;[DIR_NAME]&#34;&#60;/code&#62; changes the working directory for the next command:
+&#60;/p&#62;
+&#60;p&#62;
+The &#60;code&#62;ls&#60;/code&#62; command will print the contents for directory specified earlier:
+&#60;/p&#62;
+&#60;pre&#62;&#60;code&#62;
+#!/usr/bin/jjs -fv
+print('Tmp Directory');
+&#60;b&#62;$ENV.PWD='/tmp';&#60;/b&#62;
+$EXEC('ls -al');
+print($OUT);
+print('Root Directory');
+&#60;b&#62;$ENV.PWD='/';&#60;/b&#62;
+$EXEC('ls -al');
+print($OUT);
+&#60;/code&#62;
+&#60;/pre&#62;
+&#60;p&#62;
+Thanks to &#60;a href=&#34;https://twitter.com/wickund&#34; target=&#34;_blank&#34;&#62;Jim Laskey&#60;/a&#62; for the &#60;a href=&#34;https://twitter.com/wickund/status/542613846545158144&#34; target=&#34;_blank&#34;&#62;hint&#60;/a&#62;
+&#60;/p&#62;
+&#60;p&#62;
+&#60;small&#62;
+See you at &#60;a href=&#34;http://airhacks.com&#34; target=&#34;_blank&#34;&#62;Java EE Workshops at Munich Airport&#60;/a&#62; or &#60;a href=&#34;http://workshops.adam-bien.com/custom.htm&#34;&#62;dedicated / custom virtual workshops&#60;/a&#62;!
+&#60;/small&#62;
+&#60;/p&#62;
+
+
+	&#60;br /&#62;
+    &#60;a href=&#34;http://workshops.adam-bien.com&#34;&#62;Real World Java EE Workshops [Airport Munich]&gt;&#60;/a&#62;
+	&#60;p&#62;&#60;/p&#62;</description>
+	<pubDate>Fri, 12 Dec 2014 07:44:13 +0000</pubDate>
+</item>
+<item>
+	<title>NetBeans DZone: Java Antidecompiler for NetBeans IDE</title>
+	<guid isPermaLink="false">http://netbeans.dzone.com/185719 at http://netbeans.dzone.com</guid>
+	<link>http://feeds.dzone.com/~r/zones/netbeans/~3/k0TtGJIBK5s/java-antidecompiler-netbeans</link>
+	<description>Bis Guard &#38;amp; Co provides  code protection tools for Java, among other languages and technologies. 
+
+Recently, Bis Guard has released the Java Antidecompiler plugin for NetBeans IDE. 
+
+Get started with it as described below.
+Installation
+
+1.  Download &#34;1418138973_JavaAntidecompiler.zip&#34; from this location:
+
+  http://plugins.netbeans.org/plugin/51308/javaantidecompiler
+ ...&#60;img src=&#34;http://feeds.feedburner.com/~r/zones/netbeans/~4/k0TtGJIBK5s&#34; alt=&#34;&#34; height=&#34;1&#34; width=&#34;1&#34; /&#62;</description>
+	<pubDate>Thu, 11 Dec 2014 09:20:47 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: YouTube: How to Find the Source of Icons from NetBeans IDE</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/youtube_how_to_find_the</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/youtube_how_to_find_the</link>
+	<description>&#60;p&#62;When you're creating plugins for NetBeans and you want to reuse an icon that you see in NetBeans, what do you do to find that icon in the NetBeans sources? Tackling this challenge is described in this short YouTube clip:&#60;/p&#62;
+   &#60;p&#62; 
+         
+      &#60;/p&#62;</description>
+	<pubDate>Thu, 11 Dec 2014 08:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: Python in NetBeans IDE 8.0.2</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/python_in_netbeans_ide_81</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/python_in_netbeans_ide_81</link>
+	<description>&#60;p&#62;Let's get started with Python in NetBeans IDE 8.0.2.&#60;/p&#62; 
+  &#60;p&#62;Take the following steps:&#60;/p&#62; 
+  &#60;ol&#62; 
+    &#60;li&#62;&#60;strong&#62;Prepare.&#60;/strong&#62; Watch this YouTube movie:
+
+
+      
+      
+      
+      
+      
+      
+      
+      &#60;p&#62; 
+        &#38;amp;amp;amp;amp;lt;span id=&#38;amp;amp;amp;amp;quot;XinhaEditingPostion&#38;amp;amp;amp;amp;quot;&#38;amp;amp;amp;amp;gt;&#38;amp;amp;amp;amp;lt;/span&#38;amp;amp;amp;amp;gt;
+  &#38;amp;amp;amp;amp;amp;lt;/p&#38;amp;amp;amp;amp;amp;gt; 
+      &#60;/p&#62; 
+    &#60;/li&#62; &#60;br /&#62; 
+    &#60;li&#62;&#60;strong&#62;Make Sure You're Prepared.&#60;/strong&#62; Watch the movie again. It takes less than 5 minutes.&#60;br /&#62;&#60;/li&#62; &#60;br /&#62; 
+    &#60;li&#62;&#60;strong&#62;Get the Correct Version of NetBeans IDE.&#60;/strong&#62; Download NetBeans IDE 8.0.2, the &#34;Java SE&#34; distribution, which is the one where I've tried the scenario below. You're free to choose any other distribution, I'd recommend never using &#34;All&#34; except if you really need to do Java ME and C/C++ development, for pretty much all other scenarios, one of the other distributions is much better, i.e., smaller, faster. However, do make sure that you only continue with the next step if you have NetBeans IDE 8.0.2 installed. Note that there is a &#34;2&#34; in the previous sentence, i.e., it is not enough to have NetBeans IDE 8.0, nor to have NetBeans IDE 8.0.1. Instead, dowload and install &#60;strong&#62;NetBeans IDE 8.0.2&#60;/strong&#62;.&#60;br /&#62;&#60;/li&#62; &#60;br /&#62; 
+    &#60;li&#62;&#60;strong&#62;Get the Python Plugin for NetBeans IDE 8.0.2.&#60;/strong&#62; Go here, click Download on the page, and then unzip the file that you have downloaded: &#60;a href=&#34;http://plugins.netbeans.org/plugin/56795?show=true&#34;&#62;http://plugins.netbeans.org/plugin/56795&#60;br /&#62;&#60;/a&#62;&#60;/li&#62; &#60;br /&#62; 
+    &#60;li&#62;&#60;strong&#62;Go to the Plugin Manager in NetBeans IDE.&#60;/strong&#62; In NetBeans IDE, go to Tools | Plugins. Click the &#34;Downloaded&#34; tab, which you see below. Click Add Plugins and browse to the folder where you unzipped the files in the previous step. Select them all. You now should see exactly this:
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/pythoninstall802.png&#34; /&#62;&#60;br /&#62;&#60;/p&#62; 
+    &#60;/li&#62; &#60;br /&#62; 
+    &#60;li&#62;&#60;strong&#62;Install the Python Plugin.&#60;/strong&#62; Click Install. Click Next. Put a checkmark in &#34;I accept the terms in all of the license agreements.&#34; Click Install. Click Continue. Click Finish. Click Close.&#60;br /&#62;&#60;/li&#62; &#60;br /&#62; 
+    &#60;li&#62;&#60;strong&#62;Go to the New Project Dialog.&#60;/strong&#62; Go to File | New Project or press Ctrl-Shift-N. You should now see this:
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/python4netbeans802a.png&#34; /&#62; &#60;br /&#62;&#60;/p&#62; 
+    &#60;/li&#62; &#60;br /&#62; 
+    &#60;li&#62;&#60;strong&#62;Get Started Creating a Python Application.&#60;/strong&#62; Click Next. If you have Python installed correctly on your system, you'll see the installations available (look in the &#34;Python Platform&#34; drop-down below), possibly after a moment while NetBeans searches for your installations:
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/python4netbeans802b.png&#34; /&#62;&#60;br /&#62;&#60;/p&#62; 
+    &#60;/li&#62; &#60;br /&#62; 
+    &#60;li&#62;&#60;strong&#62;Step Through the Wizard.&#60;/strong&#62; Pick the Python Platform of your choice, provide a name (e.g., &#34;HelloPythonWorld&#34;) and a location to store the application, in the step above, and click Finish.&#60;br /&#62;&#60;/li&#62; &#60;br /&#62; 
+    &#60;li&#62;&#60;strong&#62;Run the Python Application.&#60;/strong&#62; The application opens, click the green Run arrow in the toolbar or right-click the application and choose Run. You now should see this:
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/python4netbeans802c.png&#34; /&#62;&#60;/p&#62; 
+    &#60;/li&#62; 
+  &#60;/ol&#62; 
+  &#60;p&#62;Right now, the main missing feature is the set of well established smart editor features in NetBeans IDE, such as code completion, i.e., when you press Ctrl-Space, nothing happens. No error checking, i.e., no parsing is done, either. These are things being worked on right now. However, you can code and run and debug your Python applications, which is a lot more than nothing.&#60;br /&#62;&#60;br /&#62;Feedback welcome, especially if you're planning to contribute code to this project.&#60;/p&#62;</description>
+	<pubDate>Wed, 10 Dec 2014 08:01:36 +0000</pubDate>
+</item>
+<item>
+	<title>Adam Bien: JUG Tricity, Microservices and The History Repeats</title>
+	<guid isPermaLink="false">http://www.adam-bien.com/roller/abien/entry/jug_tricity_microservices_and_the</guid>
+	<link>http://www.adam-bien.com/roller/abien/entry/jug_tricity_microservices_and_the</link>
+	<description>&#60;p&#62;
+During the sold-out NetBeans day in &#60;a href=&#34;https://blogs.oracle.com/geertjan/entry/trip_report_netbeans_day_germany&#34; target=&#34;_blank&#34;&#62;Munich&#60;/a&#62; with Toni Epple and Geertjan Wielenga, we remembered (&#60;a href=&#34;https://blogs.oracle.com/geertjan/entry/poznan_gdansk_netbeans_day_poland&#34; target=&#34;_blank&#34;&#62;Geertjan's Report (green dot on a purple line)&#60;/a&#62;, &#60;a href=&#34;http://www.adam-bien.com/roller/abien/entry/2_nb_dreamers_2_sun&#34; target=&#34;_blank&#34;&#62;my coverage&#60;/a&#62;) a NetBeans World Tour trip from Poznan to Gdansk in October 2008 with a rent car and with iPhone 1 as a navigation with a poor internet coverage.
+&#60;/p&#62;
+&#60;p&#62;
+Six years later I gave a session &#60;a href=&#34;http://trojmiasto.jug.pl/2014/11/13/04-12-2014-64th-meeting-adam-bien-building-reasonable-javaee-7-apps-on-java8-called-microservices%C2%AD/&#34; target=&#34;_blank&#34;&#62;Building Reasonable JavaEE 7 Apps on Java8 called “Microservices&#34;&#60;/a&#62; for the &#60;a href=&#34;http://trojmiasto.jug.pl/en/&#34; target=&#34;_blank&#34;&#62;Tricity Java User Group&#60;/a&#62;. It was exactly the same location and I also used NetBeans.
+&#60;/p&#62;
+&#60;p&#62;
+My airplane was supposed to land in Gdansk, but the weather conditions were bad and the airport was closed. We landed in Poznan instead. Buses were supposed to bring us to Gdansk, but no one knew when they will arrive.
+&#60;/p&#62;
+&#60;p&#62;
+After a hard negotiation I took a taxi instead. The taxi driver was very nice and funny. However, he did not knew the route to Gdansk and was afraid to go fast. I used my phone to navigate him to Gdansk and the venue. At the same time I cranked some Java EE code on the back seat and concurrently watched the speed of the car. I reminded the driver to go fast at any attempt to slow down. 
+&#60;/p&#62;
+&#60;p&#62;
+As the driver recognized, that &gt;100 attendees are waiting for us in Gdansk, he became really nervous and begun to sweat.
+&#60;/p&#62;
+&#60;p&#62;
+We had a single stop (at a graveyard) to detach the taxi-light at the roof--to go faster.
+&#60;/p&#62;
+&#60;p&#62;
+Via email I kept &#60;a href=&#34;https://twitter.com/kubem&#34; target=&#34;_blank&#34;&#62;Kuba Marchwicki&#60;/a&#62; informed about the progress. I came one hour later and Kuba delivered a prelude talk to keep the crowd entertained.
+&#60;/p&#62;
+&#60;p&#62;
+I enjoyed the session, got many interesting questions. The event was stopped by the security--they wanted to close venue for the night.
+&#60;/p&#62;
+&#60;p&#62;
+Next day the airport was still closed. I rent a car and went to Warsaw. But this is a different story :-)
+&#60;/p&#62;
+&#60;p&#62;
+I'm really looking forward to the next &#60;a href=&#34;http://trojmiasto.jug.pl/en/&#34; target=&#34;_blank&#34;&#62;Trinity Java User Group&#60;/a&#62; meeting. I'm curious what happens then :-).
+&#60;/p&#62;
+&#60;p&#62;
+&#60;small&#62;
+See you at &#60;a href=&#34;http://airhacks.com&#34; target=&#34;_blank&#34;&#62;Java EE Workshops at Munich Airport, Terminal 2&#60;/a&#62; or &#60;a href=&#34;http://workshops.adam-bien.com/custom.htm&#34;&#62;dedicated virtual workshops&#60;/a&#62;!
+&#60;/small&#62;
+&#60;/p&#62;
+
+
+
+	&#60;br /&#62;
+    &#60;a href=&#34;http://workshops.adam-bien.com&#34;&#62;Real World Java EE Workshops [Airport Munich]&gt;&#60;/a&#62;
+	&#60;p&#62;&#60;/p&#62;</description>
+	<pubDate>Wed, 10 Dec 2014 04:58:27 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: Trip Report: DevFest Istanbul 2014</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/trip_report_devfest_istanbul_2014</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/trip_report_devfest_istanbul_2014</link>
+	<description>&#60;p&#62;
+I had a fantastic time at &#60;a href=&#34;http://devfesttr.com/&#34;&#62;DevFest Istanbul, Turkey&#60;/a&#62;, on Saturday 6 December. It was the first time I was in Turkey. However, over several months, even before knowing I'd be going to this conference, I'd been following a free on-line Yale course on medieval history and then, hey, there I was in Constantinople. Fortunately, Mark Stephens, from NetBeans partner IDRsolutions, and one of the new NetBeans Dream Team members, turns out to have studied medieval history for many years, so turned out to be a perfect tour guide, when we went with a small group to many historical sites, such as the Hagia Sophia.&#60;/p&#62; 
+  &#60;p&#62;The conference itself was excellent. Three thousand turned up, to the free conference, which is about twice as many as last year. Mark Stephens did a great session entitled &#34;5 Reasons Why NetBeans Should Be In Every Developer's Toolkit&#34; and I followed with a packed out room, i.e., 800 at least, since many were standing at the doors, &#34;Coding for Desktop and Mobile with HTML5 and Java EE 7&#34;, which showed many features in NetBeans, such as the HTML5 tools, Chrome integration, AngularJS features, and Java EE code generators.&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/gdg-800.jpg&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;Also on the agenda were sessions by PrimeFaces and Vaadin, while Martijn Verburg, London JUG lead, Java champion, etc etc, and one of the new NetBeans Dream Team members did his &#34;The Habits of Highly Effective Teams&#34;. But there was much more, in four tracks, most of which I missed because I was at the NetBeans booth answering heaps of questions about NetBeans. We also worked on the next NetBeans community podcast, which will again feature interviews done by NetBeans users with each other, all recorded during the conference.&#60;/p&#62; 
+  &#60;p&#62;Another highlight was that Dorine Flies from &#34;Encouraging Programming in Kids&#34; (together with Luke Mayell and others) did another Minecraft hacking session with kids and their parents. Of course, they started by setting up NetBeans and the JDK, after which they ran Minecraft from NetBeans and then hacked it.&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/gdg-minecraft2.jpg&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;It was great seeing heaps of little kids with NetBeans on their laptops!&#60;/p&#62; 
+  &#60;p&#62;And I'll be working a bit more on the &#60;a href=&#34;https://blogs.oracle.com/geertjan/entry/netbeans_shisha_integration&#34;&#62;NetBeans shisha integration&#60;/a&#62; soon, in gratitude to all the &#60;em&#62;nargile&#60;/em&#62; I consumed.&#60;/p&#62; 
+  &#60;p&#62;All in all, a great few days, thanks everyone for making it possible, for being so enthusiastic, and I hope I'll be there again next year!&#60;/p&#62;</description>
+	<pubDate>Tue, 09 Dec 2014 17:54:10 +0000</pubDate>
+</item>
+<item>
+	<title>NetBeans DZone: 16 New NetBeans Dream Team Members!</title>
+	<guid isPermaLink="false">http://netbeans.dzone.com/185487 at http://netbeans.dzone.com</guid>
+	<link>http://feeds.dzone.com/~r/zones/netbeans/~3/5g6wA_3E5jU/16-new-netbeans-dream-team</link>
+	<description>The NetBeans Dream Team has expanded massively over the past week! Sixteen new members have joined, from many corners of the world.
+      Preview Text: 
+    
+            
+                    The NetBeans Dream Team has expanded massively over the past week! Sixteen new members have joined, from many corners of the world.        
+        
+
+Legacy
+      Sponsored: 
+    
+            
+     ...&#60;img src=&#34;http://feeds.feedburner.com/~r/zones/netbeans/~4/5g6wA_3E5jU&#34; alt=&#34;&#34; height=&#34;1&#34; width=&#34;1&#34; /&#62;</description>
+	<pubDate>Tue, 09 Dec 2014 08:50:12 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: ERP System for the Printing Industry on the NetBeans Platform</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/erp_system_for_the_printing</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/erp_system_for_the_printing</link>
+	<description>&#60;p&#62;One of the organizations present at &#60;a href=&#34;https://blogs.oracle.com/geertjan/entry/trip_report_netbeans_day_germany&#34;&#62;NetBeans Day Germany&#60;/a&#62; last week was &#60;a href=&#34;http://www.ssb-diso.de/&#34;&#62;SSB Software Service und Beratung GmbH&#60;/a&#62;, based in Munich, a software company with more than 20 years of experience focused on integrated solutions for the printing industry.&#60;/p&#62; 
+  &#60;p&#62;Diso21 Client is a NetBeans Plattform application created by SSB to provide an ERP system for modern printing companies. It helps to manage and to automate enterprise processes. The application has a modular architecture and allows for a flexible arrangement of workplaces. The Diso21 Client has an integration API to embed third party systems to increase productivity.&#60;/p&#62; 
+  &#60;p&#62;Here's a screenshot, click to enlarge it:&#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;&#60;a href=&#34;https://blogs.oracle.com/geertjan/resource/ssbdiso.png&#34;&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/ssbdiso-small.png&#34; /&#62;&#60;/a&#62;&#60;br /&#62; &#60;/p&#62; 
+  &#60;p&#62;It will be added to the &#60;a href=&#34;https://platform.netbeans.org/screenshots.html&#34;&#62;NetBeans Platform Showcase&#60;/a&#62; soon.&#60;br /&#62;&#60;/p&#62;</description>
+	<pubDate>Mon, 08 Dec 2014 13:53:38 +0000</pubDate>
+</item>
+<item>
+	<title>NetBeans DZone: NetBeans at DevFest Istanbul</title>
+	<guid isPermaLink="false">http://netbeans.dzone.com/185345 at http://netbeans.dzone.com</guid>
+	<link>http://feeds.dzone.com/~r/zones/netbeans/~3/w3vF_BQWH0o/netbeans-devfest-istanbul</link>
+	<description>Over the weekend the second DevFest Istanbul conference took place. It is a sign of the growing uptake of NetBeans above and beyond its traditional users that there was also a big NetBeans element. It is the second time it has been run and about 3000 people attended.
+There were two talks on NetBeans, an introductory talk on reasons to use NetBeans... and a detailed tutorial on writing web...&#60;img src=&#34;http://feeds.feedburner.com/~r/zones/netbeans/~4/w3vF_BQWH0o&#34; alt=&#34;&#34; height=&#34;1&#34; width=&#34;1&#34; /&#62;</description>
+	<pubDate>Mon, 08 Dec 2014 05:46:33 +0000</pubDate>
+</item>
+<item>
+	<title>Adam Bien: 9th Airhacks.tv Q &#38; A Uploaded --OData, Logging, Fast Deployments, EntityManager Injection and The Giblets Of My Server</title>
+	<guid isPermaLink="false">http://www.adam-bien.com/roller/abien/entry/9th_airhacks_tv_q_a</guid>
+	<link>http://www.adam-bien.com/roller/abien/entry/9th_airhacks_tv_q_a</link>
+	<description>20+ &#60;a href=&#34;http://www.adam-bien.com/roller/abien/entry/scheduler_datasources_microservices_jsf_and&#34; target=&#34;_blank&#34;&#62;questions&#60;/a&#62; answered in 50 mins: the 9th &#60;a href=&#34;http://airhacks.tv&#34; target=&#34;_blank&#34;&#62;airhacks.tv&#60;/a&#62;.
+&#60;div class=&#34;screencast&#34;&#62;
+
+&#60;/div&#62;
+&#60;p&#62;
+See &#60;a href=&#34;http://airhacks.tv&#34; target=&#34;_blank&#34;&#62;airhacks.tv&#60;/a&#62; for past episodes.
+&#60;/p&#62;
+&#60;p&#62;
+Any questions left? Then join the conversation at &#60;a href=&#34;http://airhacks.io&#34;&#62;each first Monday of the month at 6 P.M. live, &#60;/a&#62; and ask questions &#60;a href=&#34;https://gist.github.com/AdamBien/a048fa8262ad12069e94&#34; target=&#34;_blank&#34;&#62;commenting / pulling on github&#60;/a&#62; (hurry up, some questions are already asked) or write comments on this blog.
+&#60;/p&#62;
+&#60;p&#62;
+&#60;small&#62;
+See you at &#60;a href=&#34;http://airhacks.com&#34; target=&#34;_blank&#34;&#62;Java EE Workshops at MUC Airport&#60;/a&#62; or &#60;a href=&#34;http://airhacks.io&#34;&#62;on demand and in a location very near you: airhacks.io&#60;/a&#62;!
+&#60;/small&#62;
+&#60;/p&#62;
+	&#60;br /&#62;
+    &#60;a href=&#34;http://workshops.adam-bien.com&#34;&#62;Real World Java EE Workshops [Airport Munich]&gt;&#60;/a&#62;
+	&#60;p&#62;&#60;/p&#62;</description>
+	<pubDate>Mon, 08 Dec 2014 05:20:39 +0000</pubDate>
+</item>
+<item>
+	<title>APIDesign - Blogs: Publish Bck2Brwsr Libraries as Maven Artifacts</title>
+	<guid isPermaLink="false">http://wiki.apidesign.org/wiki/Bck2BrwsrLibraries</guid>
+	<link>http://wiki.apidesign.org/wiki/Bck2BrwsrLibraries</link>
+	<description>&#60;p&#62;&#60;a href=&#34;http://wiki.apidesign.org/wiki/Bck2BrwsrLibraries&#34; title=&#34;Bck2BrwsrLibraries&#34;&#62;Bck2BrwsrLibraries&#60;/a&#62; can now be published as &#60;a href=&#34;http://wiki.apidesign.org/wiki/Maven&#34; title=&#34;Maven&#34;&#62;Maven&#60;/a&#62; Artifacts which greatly reduces edit/compile/run time.
+&#60;/p&#62;&#60;p&#62;--&#60;a href=&#34;http://wiki.apidesign.org/wiki/User:JaroslavTulach&#34; title=&#34;User:JaroslavTulach&#34;&#62;JaroslavTulach&#60;/a&#62; 05:21, 7 December 2014 (UTC)
+&#60;/p&#62;</description>
+	<pubDate>Sun, 07 Dec 2014 05:21:00 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: AsciidoctorJ and NetBeans IDE</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/asciidoctorj_and_netbeans_ide</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/asciidoctorj_and_netbeans_ide</link>
+	<description>&#60;p&#62;&#60;a href=&#34;http://asciidoctor.org/docs/asciidoctorj/&#34;&#62;AsciidoctorJ&#60;/a&#62; is the official library for running Asciidoctor on the JVM.
+
+&#60;/p&#62; 
+  &#60;p&#62;Here's the start of support for AsciidoctorJ in NetBeans IDE. New AsciiDoc files can be created and you have a source editor where you can write AsciiDoc. Currently, no syntax coloring, etc, yet.&#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/asciidoctor-j-1.png&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;When you click the Visual togglebutton above, AsciidoctorJ is used to convert the AsciiDoc:&#60;/p&#62; 
+  &#60;p&#62; &#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/asciidoctor-j-3.png&#34; /&#62;&#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;Right now, the conversion options are hardcoded, using CodeRay, a Ruby library for syntax highlighting. Thanks to AsciidoctorJ, no Ruby needs to be installed, since AsciidoctorJ wraps the gems. Notice the code below, which was as much fun to figure out as something really not fun and could still be wrong and looks problematic. But it works.&#60;/p&#62; 
+  &#60;pre class=&#34;java&#34;&#62;&#60;font size=&#34;1&#34;&#62;Asciidoctor doctor = Asciidoctor.Factory.create(Arrays.asList(
+        &#34;gems/asciidoctor-1.5.0/lib&#34;,
+        &#34;gems/coderay-1.1.0/lib&#34;,
+        &#34;META-INF/jruby.home/lib/ruby/1.8&#34;));
+String html = doctor.convert(obj.getPrimaryFile().asText(), getInitialOptions());
+htmlEditorPane.setText(html);
+&#60;/font&#62;
+&#60;/pre&#62;Need to integrate the Progress API into the above so that the progress bar runs while the conversion is taking place. &#60;br /&#62; 
+  &#60;p&#62;The source code of the above is here, looking forward to clones and pull requests:&#60;/p&#62; 
+  &#60;p&#62;&#60;a href=&#34;https://github.com/GeertjanWielenga/AsciidoctorJ4NB&#34;&#62;https://github.com/GeertjanWielenga/AsciidoctorJ4NB&#60;/a&#62;&#60;br /&#62;&#60;/p&#62;</description>
+	<pubDate>Sat, 06 Dec 2014 00:50:12 +0000</pubDate>
+</item>
+<item>
+	<title>Adam Bien: Setting Timeout For The JAX-RS 2.0 / Jersey Client</title>
+	<guid isPermaLink="false">http://www.adam-bien.com/roller/abien/entry/setting_timeout_for_the_jax</guid>
+	<link>http://www.adam-bien.com/roller/abien/entry/setting_timeout_for_the_jax</link>
+	<description>&#60;p&#62;
+Timeouts are crucial for robustness of the communication between reasonable WARs (also known as micro services).
+&#60;/p&#62;
+&#60;p&#62;
+Timeout settings are not standardized and have to be passed as &#34;proprietary&#34; properties of the JAX-RS client:
+&#60;/p&#62;
+&#60;pre&#62;&#60;code&#62;
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import org.glassfish.jersey.client.ClientProperties;
+
+        Client client = ClientBuilder.newClient();
+        client.property(&#60;b&#62;ClientProperties.CONNECT_TIMEOUT&#60;/b&#62;, 100);
+        client.property(&#60;b&#62;ClientProperties.READ_TIMEOUT&#60;/b&#62;, 10);
+
+&#60;/code&#62;
+&#60;/pre&#62;
+The &#34;provided&#34; dependency highlighted above can be omitted by using the &#60;code&#62;String&#60;/code&#62; representation of the constants:
+&#60;pre&#62;&#60;code&#62;
+        client.property(&#60;b&#62;&#34;jersey.config.client.connectTimeout&#34;&#60;/b&#62;, 100);
+        client.property(&#60;b&#62;&#34;jersey.config.client.readTimeout&#34;&#60;/b&#62;, 10);
+
+&#60;/code&#62;
+&#60;/pre&#62;
+Timeouts will cause: &#60;code&#62;java.net.SocketTimeoutException: Read timed out&#60;/code&#62; exception which can be easily handled. A few years ago we would talk about exception handling and robustness, in the age of micro services we can call it now &#34;resilience&#34; :-).
+&#60;p&#62;
+&#60;small&#62;
+See you at &#60;a href=&#34;http://airhacks.com&#34; target=&#34;_blank&#34;&#62;Java EE Workshops at Munich Airport, Terminal 2&#60;/a&#62; or at a &#60;a href=&#34;http://workshops.adam-bien.com/custom.htm&#34; target=&#34;_blank&#34;&#62;virtual, dedicated workshop&#60;/a&#62;!
+&#60;/small&#62;
+&#60;/p&#62; 
+
+
+	&#60;br /&#62;
+    &#60;a href=&#34;http://workshops.adam-bien.com&#34;&#62;Real World Java EE Workshops [Airport Munich]&gt;&#60;/a&#62;
+	&#60;p&#62;&#60;/p&#62;</description>
+	<pubDate>Fri, 05 Dec 2014 09:55:35 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: New NetBeans Power Tools: Key Promoter &#38; Quick Member Search</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/new_netbeans_power_tools_key</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/new_netbeans_power_tools_key</link>
+	<description>&#60;p&#62;Today I have two new/updated plugins for the price of one! One costs zero money and therefore two do, too.&#60;/p&#62; 
+  &#60;p&#62;Firstly, I find the concept of a key promoter very handy, but &#60;a href=&#34;https://blogs.oracle.com/geertjan/entry/key_promoter_for_netbeans&#34;&#62;the initial version of the plugin&#60;/a&#62; provided too much noise. Now, instead of using the Notifications window, the keyboard shortcut, if there is one, that matches the action invoked from a menu item or toolbar button is shown in the status bar:&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/keypromoter-2.png&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;&#60;a href=&#34;http://plugins.netbeans.org/plugin/55751/?show=true&#34;&#62;Get the above plugin here.&#60;/a&#62;&#60;/p&#62; 
+  &#60;p&#62;Secondly, I'm going to be using only the keyboard (and not the mouse) as much as possible and &#34;Distraction Free Mode&#34; as much as possible, from now onwards. That means I want the tools I need to use to be close at hand. Therefore, rather than all the clicking I need to do to undock the Navigator, bring it to where I want it to be, etc etc, I've created a new plugin that lets you press Alt-Q (the &#34;q&#34; is the &#34;Q&#34; in &#34;Quick Member Search&#34;), at which point the Navigator will undock itself and appear as a small dialog in the editor. Especially powerful when you're already in &#34;Distraction Free Mode&#34; (Ctrl-Shift-Enter).&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/navigator-in-distraction-free-mode1.png&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;The Navigator that you see above appeared in the editor when I pressed Alt-Q. I did not need to (1) open the Navigator via Ctrl-7 or a menu item in the Window menu and then (2) move my mouse to the Navigator in its docked position in the lower left and then (3) right-click in the tab of the Navigator with my mouse and then (4) choose Float in the popup menu with my mouse and then (5) drag the Navigator with my mouse into the editor. No, instead of all that, I simply pressed Alt-Q and automatically the Navigator was put where I wanted it.&#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;&#60;a href=&#34;http://plugins.netbeans.org/plugin/56757/?show=true&#34;&#62;Get the above plugin here.&#60;/a&#62; &#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;Anyone have requests for other small and handy power tools for NetBeans IDE? Let me know, especially if you're interested in working on them together with me.&#60;br /&#62;&#60;/p&#62;</description>
+	<pubDate>Thu, 04 Dec 2014 12:21:53 +0000</pubDate>
+</item>
+<item>
+	<title>Adam Bien: Introducing afterburner.fx TopGun Edition</title>
+	<guid isPermaLink="false">http://www.adam-bien.com/roller/abien/entry/introducing_afterburner_fx_topgun_edition</guid>
+	<link>http://www.adam-bien.com/roller/abien/entry/introducing_afterburner_fx_topgun_edition</link>
+	<description>&#60;p&#62;
+&#60;a href=&#34;http://afterburner.adam-bien.com&#34; target=&#34;_blank&#34;&#62;afterburner.fx&#60;/a&#62; is the leanest possible &#60;a href=&#34;http://en.wikipedia.org/wiki/Model_View_ViewModel&#34; target=&#34;_blank&#34;&#62;MVP / MVVM&#60;/a&#62; &#34;framework&#34; for Java FX 8 / Java 8. 
+&#60;/p&#62;
+&#60;p&#62;
+As afterburner.fx became more popular, I got many interesting community contributions. 
+I rejected most of the pull requests, because I could not find the &#34;killer use case&#34; for most of them. afterburner.fx should remain lean and simple. 
+&#60;/p&#62;
+&#60;p&#62;
+The solution to this unsatisfying situation is the branch &#60;a href=&#34;https://github.com/AdamBien/afterburner.fx/tree/topgun&#34; target=&#34;_blank&#34;&#62;topgun&#60;/a&#62;. Recent pull requests, like e.g. &#60;a href=&#34;http://weld.cdi-spec.org&#34; target=&#34;_blank&#34;&#62;weld&#60;/a&#62; integration and support for &#60;code&#62;@Named&#60;/code&#62; qualifiers are already merged.
+&#60;/p&#62;
+&#60;p&#62;
+In addition the &#34;topgun&#34; edition is also available from maven central:
+&#60;/p&#62;&#60;pre&#62;&#60;code&#62;
+&#38;lt;dependency&gt;
+	&#38;lt;groupId&gt;com.airhacks&#38;lt;/groupId&gt;
+	&#38;lt;artifactId&gt;afterburner-topgun.fx&#38;lt;/artifactId&gt;
+	&#38;lt;version&gt;1.6.2&#38;lt;/version&gt;
+&#38;lt;/dependency&gt;
+&#60;/code&#62;
+&#60;/pre&#62;
+&#60;p&#62;&#60;/p&#62;
+&#60;p&#62;
+There are no changes for coordinates of the default afterburner.fx:
+&#60;/p&#62;&#60;pre&#62;&#60;code&#62;
+&#38;lt;dependency&gt;
+	&#38;lt;groupId&gt;com.airhacks&#38;lt;/groupId&gt;
+	&#38;lt;artifactId&gt;afterburner.fx&#38;lt;/artifactId&gt;
+	&#38;lt;version&gt;[LATEST_RELEASE]&#38;lt;/version&gt;
+&#38;lt;/dependency&gt;
+&#60;/code&#62;
+&#60;/pre&#62;
+
+&#60;p&#62;
+Now all contributions are welcome. Use the branch: &#60;a href=&#34;https://github.com/AdamBien/afterburner.fx/tree/topgun&#34; target=&#34;_blank&#34;&#62;topgun&#60;/a&#62; as base for feature implementations and the default branch &#60;a href=&#34;https://github.com/AdamBien/afterburner.fx&#34; target=&#34;_blank&#34;&#62;master&#60;/a&#62; for possible bug fixes.
+&#60;/p&#62;
+
+&#60;p&#62;
+&#60;small&#62;
+See you at &#60;a href=&#34;http://airhacks.com&#34; target=&#34;_blank&#34;&#62;Java EE Workshops at Munich Airport&#60;/a&#62;!
+&#60;/small&#62;
+&#60;/p&#62;
+	&#60;br /&#62;
+    &#60;a href=&#34;http://workshops.adam-bien.com&#34;&#62;Real World Java EE Workshops [Airport Munich]&gt;&#60;/a&#62;
+	&#60;p&#62;&#60;/p&#62;</description>
+	<pubDate>Thu, 04 Dec 2014 05:50:58 +0000</pubDate>
+</item>
+<item>
+	<title>NetBeans DZone: Yes, NetBeans Can Do Polymer!</title>
+	<guid isPermaLink="false">http://netbeans.dzone.com/184941 at http://netbeans.dzone.com</guid>
+	<link>http://feeds.dzone.com/~r/zones/netbeans/~3/v3PvdxOcJRk/nb-polymer-1</link>
+	<description>Last weekend I was training a small group of developers on Polymer during a local Google Developer Group DevFest here in Burkina Faso. Basically, Polymer is a new web UI framework that helps programmers to develop modularized web applications with cross-browser capabilities. 
+
+
+Polymer is composed of four main layers:
+      Preview Text: 
+    
+            
+                    Last...&#60;img src=&#34;http://feeds.feedburner.com/~r/zones/netbeans/~4/v3PvdxOcJRk&#34; alt=&#34;&#34; height=&#34;1&#34; width=&#34;1&#34; /&#62;</description>
+	<pubDate>Thu, 04 Dec 2014 05:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: Trip Report: NetBeans Day Germany 2014</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/trip_report_netbeans_day_germany</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/trip_report_netbeans_day_germany</link>
+	<description>&#60;p&#62;NetBeans Day in Munich, Germany, held yesterday, was pretty amazing. Despite having been arranged at the last minute, and undermined a bit by Lufthansa strikes and Deutsche Bahn hiccups, the room was filled to almost maximum capacity, certainly around 100 attendees were present. (Registration for the event had to close soon after it opened, because there was only room for 100.) The key people to thank for the event are Peter Doschkinow from the Oracle office in Munich and Toni Epple from Eppleton. They set up the whole day, invited speakers, and so on. Oracle hosted the event, provided coffee and lunch, and the room itself was really nice.&#60;br /&#62;&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/aroundnetbeanside.jpg&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;Aside from the rockstar speaker line up, which included Adam Bien, Gerrit Grunwald, and Markus Eisele, quite some well known faces attended, such as Sven Reimers, Florian Vogler, and Martin Klähn, as well as uber NetBeans plugin developer Benno Markiewicz. And Reinhard Schmitz flew all the way from Luxembourg. I met Norman Fomferra and Marco Peters for the first time, who're working on a NetBeans Platform application for the European Space Agency, though there were so many people that I didn't get to talk to nearly all of them. Especially, I missed talking to guys who attended from ConSol, where NetBeans Platform work is also being done, while I learned about several NetBeans Platform applications that I'd never heard of before, such as at SSB and Transver, both organizations in Munich.&#60;/p&#62; 
+  &#60;p&#62;But, in fact, most of the day was focused on Java EE, and web development in general. Adam talked about Java EE in combination with AngularJS, Markus about WildFly and OpenShift, while I talked a bit about the Oracle Cloud and Oracle Developer Cloud Service, for both of which there are plugins in the NetBeans Plugin Manager. Peter Doschkinow talked on server-side JavaScript, Toni Epple on DukeScript, Sven Reimers on the NetBeans Platform, and Gerrit Grunwald started the day by talking (via Skype) about wearables and Java. I showed some interesting features in NetBeans IDE and talked a bit about the community around NetBeans.&#60;br /&#62;&#60;br /&#62;09:00 - 09:10 Anton Epple, Geertjan Wielenga, Peter Doschkinow: &#34;Welcome to NetBeans Day&#34; &#60;br /&#62;09:15 - 10:10 Gerrit Grunwald: &#34;Catch me if you can&#34; - Java on Wearables&#60;br /&#62;10:15 - 11:10 Markus Eisele: &#34;Manage JBoss EAP, WildFly and OpenShift with NetBeans&#34;&#60;br /&#62;11:15 - 12:15 Adam Bien: &#34;The Microservice IDE: From Java EE To Angular&#34; &#60;br /&#62;12:15 - 13:15 Mittagspause &#38;amp; Open Space&#60;br /&#62;13:15 - 14:10 Anton Epple: &#34;Write Once Run Anywhere with DukeScript&#34; &#60;br /&#62;14:15 - 15:15 Peter Doschkinow: &#34;Server-Side JavaScript on the JVM&#34;&#60;br /&#62;15:15 - 15:45 Kaffeepause&#60;br /&#62;15:45 - 16:45 Geertjan Wielenga - &#34;Heaps of Cool Hidden Goodies in NetBeans IDE&#34;&#60;br /&#62;16:50 - 17:50 Sven Reimers: &#34;NetBeans Platform - Inifinite Evolution&#34; &#60;br /&#62;18:00 - 18:30 Geertjan Wielenga: &#34;Manage Oracle Cloud, Oracle Developer Cloud Service, and WebLogic with NetBeans&#34;&#60;/p&#62; 
+  &#60;p&#62;For me, the question of the day was asked during a break in the program by Stefan Gürtler from Transver who asked me: &#34;How do you find your methods in NetBeans IDE?&#34; (Somebody then said &#34;if you need to look for your methods, your class is too large&#34;, which was an interesting assertion.) I mentioned the Navigator but he said he'd like to be able to pop up a small dialog, like in other IDEs, within the editor, and then quickly search for a method, at which point the list would filter down to the one he wants to work with. That sounds cool and here's the start of that:&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/qms.png&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;The current implementation is that you start typing and immediately the filtering happens:&#60;/p&#62; 
+  &#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/qms1.png&#34; /&#62; &#60;/p&#62; 
+  &#60;p&#62;It's very simple so far, but the idea is you'll be able to press Alt-Q, do your search, find the member you need, click on it, and then the popup closes and the cursor is on the member in the editor. The plugin can be cloned and I'm looking forward to getting pull requests!&#60;/p&#62; 
+  &#60;p&#62;&#60;a href=&#34;https://github.com/GeertjanWielenga/QuickMemberSearch&#34;&#62;https://github.com/GeertjanWielenga/QuickMemberSearch&#60;/a&#62;&#60;/p&#62; 
+  &#60;p&#62;The plan is for multiple NetBeans Days to be held around the world. Now that we have a good location in Munich, we'll be able to hold more such events there. The next NetBeans Day is planned to be held during March or April next year. Probably it will be done quite differently to yesterday. For example, maybe there'll be multiple tracks and definitely there should be more time for talking and getting to know each other. Maybe small workshops on e.g., creating NetBeans plugins, could be good to include too.&#60;/p&#62; 
+  &#60;p&#62;Thanks to everyone who came, looking forward to next time!&#60;br /&#62;&#60;/p&#62;</description>
+	<pubDate>Wed, 03 Dec 2014 14:10:19 +0000</pubDate>
+</item>
+<item>
+	<title>NetBeans DZone: Track Your Programming within NetBeans using the WakaTime plugin</title>
+	<guid isPermaLink="false">http://netbeans.dzone.com/184713 at http://netbeans.dzone.com</guid>
+	<link>http://feeds.dzone.com/~r/zones/netbeans/~3/6CFTaG0cPxU/nb-wakatime-1</link>
+	<description>The WakaTime plugin tracks time by project, branch, language, among other things for individual developers as well as teams.  Here’s what the dashboard looks like:
+      Preview Text: 
+    
+            
+                    The WakaTime plugin tracks time by project, branch, language, among other things for individual developers as well as teams.&#60;img src=&#34;http://feeds.feedburner.com/~r/zones/netbeans/~4/6CFTaG0cPxU&#34; alt=&#34;&#34; height=&#34;1&#34; width=&#34;1&#34; /&#62;</description>
+	<pubDate>Mon, 01 Dec 2014 21:56:16 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: Top 7 Reasons to Consider Using NetBeans IDE</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/top_7_reasons_to_consider</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/top_7_reasons_to_consider</link>
+	<description>&#60;p&#62;There are many reasons why it makes sense to use NetBeans IDE for your software development work. But, of those many reasons, what are the top reasons? Here they are, the top 7 reasons, explained together with demos and slides!&#60;/p&#62; 
+
+  &#60;p&#62; 
+    &#38;amp;amp;amp;amp;amp;lt;span id=&#38;amp;amp;amp;amp;amp;quot;XinhaEditingPostion&#38;amp;amp;amp;amp;amp;quot;&#38;amp;amp;amp;amp;amp;gt;&#38;amp;amp;amp;amp;amp;lt;/span&#38;amp;amp;amp;amp;amp;gt;
+  &#38;amp;amp;amp;amp;amp;amp;lt;/p&#38;amp;amp;amp;amp;amp;amp;gt; 
+  &#60;/p&#62; 
+  &#60;p&#62;Go &#60;a href=&#34;https://www.youtube.com/channel/UCHYwjhMkH1VCLswCsIo675w&#34;&#62;here for many more similar YouTube movies&#60;/a&#62;.&#60;/p&#62;</description>
+	<pubDate>Mon, 01 Dec 2014 17:26:03 +0000</pubDate>
+</item>
+<item>
+	<title>Adam Bien: Service Discovery, Micro Service Communication, Fast Deployments, JPA-JSON Serialization, ECB again or 9th Airhacks Q&#38;A</title>
+	<guid isPermaLink="false">http://www.adam-bien.com/roller/abien/entry/service_discovery_micro_service_communication</guid>
+	<link>http://www.adam-bien.com/roller/abien/entry/service_discovery_micro_service_communication</link>
+	<description>&#60;p&#62;Questions for the 1st December, Monday, 6 P.M. CET, 9th edition of the &#60;a href=&#34;http://airhacks.tv&#34;&#62;http://airhacks.tv&#60;/a&#62; show:&#60;/p&#62;
+&#60;ol&#62;
+&#60;li&#62;&#60;p&#62;@AdamBien what would be your take on how to most elegantly deal with resilience and service discovery for JavaEE7 #microservices ? (tweet by @niko_nava)&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;OData vs. RAW Json (email question from Louw)&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;what logging framework do you normally use? Seems slf4j is the only library i can’t get rid of in my WARs… (tweet @MichelSchudel)&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;How to transform entities with OneToMany relationships into json for JAX-RS (lazyinitialization exception is thrown if relationship is not fetched)? Let’s say I have methods getAllUsers() and getAllUsersWithDetails(). I was able to do it with jackson and its jackson-datatype-hibernate dependency. Is there any other, better way? &#60;a href=&#34;https://gist.github.com/MougLee&#34;&#62;MougLee&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;I have seen your videos on ECB pattern, but I am not sure, what goes into Control and what into Boundary. You said, that you do it with refactoring, when Boundary gets to big … Could you please provide any more pointers? &#60;a href=&#34;https://gist.github.com/MougLee&#34;&#62;MougLee&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;I have a feeling, I have to deploy/redeploy my application all the time during development. Do you have any tips to speed up development as much as possible and avoid deploying code? Without JRebel :-) &#60;a href=&#34;https://gist.github.com/MougLee&#34;&#62;MougLee&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;What’s in your opinion the preferred way to handle service-versioning for REST services? &#60;a href=&#34;https://gist.github.com/mliebl&#34;&#62;mliebl&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;We are running a JEE application with thousands of EJBs (EAR with 3 different projects refered) which takes around 10 minutes for server start up. Mainly time spent on creating and loading EJBs at startup. How can I bring down the startup time of Jboss server at least in development environment. &#60;a href=&#34;https://gist.github.com/surendrand&#34;&#62;surendrand&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;What is the most efficient way to communicate between two μ-Services especially 1. when they are deployed as different WARs and 2. on different Docker images but on the same Docker “Host”/VM/machine. &#60;a href=&#34;https://gist.github.com/0x001D&#34;&#62;0x001D&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;What do you do for simple reporting in enterprise projects ?? Use a BI solution and integrate it ? any alternative ? &#60;a href=&#34;https://gist.github.com/cristhiank&#34;&#62;cristhiank&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;What are the possible solutions for API Gateway in JavaEE enviroments. Specifically when there is different JavaEE app per business line exposing RestAPIS. &#60;a href=&#34;https://gist.github.com/tegbird&#34;&#62;tegbird&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;What are ur views on API management tools provided by vendors as centralized solution to APIs. Is it going the same way as ESBs did to SOA. Nobody understood them, overated and underused. &#60;a href=&#34;https://gist.github.com/tegbird&#34;&#62;tegbird&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;I would like to ask you what is more preferable in your opinion: serializing enums to json using enum names in order to send via rest or using enum values instead of enum names for example in case as below: RED(“red”), BLUE(“blue”); &#60;a href=&#34;https://gist.github.com/4tran&#34;&#62;4tran&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;sometimes you are talking about your personal server you build every 3 years. Can you provide some details (list of components) about your current configuration? &#60;a href=&#34;https://gist.github.com/github0x1&#34;&#62;github0x1&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;&#60;p&#62;Most of my JavaFX applications have composite views and so the sub-views have to communicate with each other. I hate nesting controllers using @FXML injection. I think it creates a strong coupling between the views. I use afterburner.fx in most of my projects. What do you think is the best way to communicate across sub-views within a composite view? Thanks. &#60;a href=&#34;https://gist.github.com/raghsr&#34;&#62;raghsr&#60;/a&#62;&#60;/p&#62;&#60;/li&#62;
+&#60;li&#62;I have a hierarchy of organization unit objects (plants, centers, departments, teams, …). Each object has a reference to his parent and his children (getParent(), getChildren()). Everything is loaded and wired during application initialization and I have a service which provides me the object (getObjectByID, …)
+Now my problem: I want to allow and deny the access to the objects dependent on the user. Is there an easy JEE/CDI way to reach this goal? I mean, how do I tell the plantOrgUnit-Object to deliver only children or parent OrgUnit-Objects which are are permitted (eg by a criteria like a role, or an attribute reflecting the role relation)?
+May be the question is too stupid. Then please skip it. If you have any modern CDI/EE6 way to handle such kind of problems please provide it (Karsten)&#60;/li&#62;
+&#60;/ol&#62;
+
+&#60;p&#62;
+Do you have any additional questions? Ask now, file them &#60;a href=&#34;https://gist.github.com/AdamBien/a048fa8262ad12069e94&#34; target=&#34;_blank&#34;&#62;https://gist.github.com/AdamBien/a048fa8262ad12069e94&#60;/a&#62; or wait a month :-)
+&#60;/p&#62;
+&#60;p&#62;
+The best of all: you can ask the questions live, during the show using the chat: &#60;a href=&#34;http://www.ustream.tv/channel/adambien&#34; target=&#34;_blank&#34;&#62;http://www.ustream.tv/channel/adambien&#60;/a&#62;, twitter (hashtag &#34;#airhacks&#34;) or (the best option): using channel ##airhacks on &#60;a href=&#34;http://freenode.net&#34; target=&#34;_blank&#34;&#62;http://freenode.net&#60;/a&#62;.
+&#60;/p&#62;
+&#60;p&#62;
+See also other screencasts at: &#60;a href=&#34;http://tv.adam-bien.com&#34; target=&#34;_blank&#34;&#62;http://tv.adam-bien.com&#60;/a&#62; or subscribe to&#60;a href=&#34;http://www.youtube.com/user/bienadam&#34; target=&#34;_blank&#34;&#62;http://www.youtube.com/user/bienadam&#60;/a&#62;.
+&#60;/p&#62;
+&#60;p&#62;
+&#60;small&#62;
+See you at &#60;a href=&#34;http://airhacks.com&#34; target=&#34;_blank&#34;&#62;Java EE Workshops at Munich Airport, Terminal 2&#60;/a&#62;.
+&#60;/small&#62;
+&#60;/p&#62;
+
+	&#60;br /&#62;
+    &#60;a href=&#34;http://workshops.adam-bien.com&#34;&#62;Real World Java EE Workshops [Airport Munich]&gt;&#60;/a&#62;
+	&#60;p&#62;&#60;/p&#62;</description>
+	<pubDate>Sun, 30 Nov 2014 09:06:12 +0000</pubDate>
+</item>
+<item>
+	<title>APIDesign - Blogs: Wrap Your JAR as OSGi Bundle via Maven Easily!</title>
+	<guid isPermaLink="false">http://wiki.apidesign.org/wiki/OSGiWrapper</guid>
+	<link>http://wiki.apidesign.org/wiki/OSGiWrapper</link>
+	<description>&#60;p&#62;Not &#60;a href=&#34;http://wiki.apidesign.org/wiki/OSGiWrapper&#34; title=&#34;OSGiWrapper&#34;&#62;all artifacts&#60;/a&#62; in a &#60;a href=&#34;http://wiki.apidesign.org/wiki/Maven&#34; title=&#34;Maven&#34;&#62;Maven&#60;/a&#62; repository are packaged as &#60;a href=&#34;http://wiki.apidesign.org/wiki/OSGi&#34; title=&#34;OSGi&#34;&#62;OSGi&#60;/a&#62; bundles. Yet, some systems (like for example the &#60;a href=&#34;http://wiki.apidesign.org/wiki/Bck2Brwsr&#34; title=&#34;Bck2Brwsr&#34;&#62;Bck2Brwsr&#60;/a&#62; ahead-of-time compiler) require &#60;a href=&#34;http://wiki.apidesign.org/wiki/JAR&#34; class=&#34;mw-redirect&#34; title=&#34;JAR&#34;&#62;JAR&#60;/a&#62; to contain &#60;a href=&#34;http://wiki.apidesign.org/wiki/OSGi&#34; title=&#34;OSGi&#34;&#62;OSGi&#60;/a&#62; meta-data. Luckily there is a simple way to turn any &#60;a href=&#34;http://wiki.apidesign.org/wiki/JAR&#34; class=&#34;mw-redirect&#34; title=&#34;JAR&#34;&#62;JAR&#60;/a&#62; into &#60;a href=&#34;http://wiki.apidesign.org/wiki/OSGi&#34; title=&#34;OSGi&#34;&#62;OSGi&#60;/a&#62; bundle by creating a simple &#60;a href=&#34;http://wiki.apidesign.org/wiki/Maven&#34; title=&#34;Maven&#34;&#62;Maven&#60;/a&#62; project. Here is the sample &#60;b&#62;pom.xml&#60;/b&#62;:
+&#60;/p&#62;
+&#60;div style=&#34;text-align: left;&#34; dir=&#34;ltr&#34;&#62;&#60;pre class=&#34;source-xml&#34;&#62;&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;?xml&#60;/span&#62; &#60;span class=&#34;re0&#34;&#62;version&#60;/span&#62;=&#60;span class=&#34;st0&#34;&#62;&#34;1.0&#34;&#60;/span&#62; &#60;span class=&#34;re0&#34;&#62;encoding&#60;/span&#62;=&#60;span class=&#34;st0&#34;&#62;&#34;UTF-8&#34;&#60;/span&#62;&#60;span class=&#34;re2&#34;&#62;?&gt;&#60;/span&#62;&#60;/span&#62;
+&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;project&#60;/span&#62; &#60;span class=&#34;re0&#34;&#62;xmlns&#60;/span&#62;=&#60;span class=&#34;st0&#34;&#62;&#34;http://maven.apache.org/POM/4.0.0&#34;&#60;/span&#62; 
+  &#60;span class=&#34;re0&#34;&#62;xmlns:xsi&#60;/span&#62;=&#60;span class=&#34;st0&#34;&#62;&#34;http://www.w3.org/2001/XMLSchema-instance&#34;&#60;/span&#62; 
+  &#60;span class=&#34;re0&#34;&#62;xsi:schemaLocation&#60;/span&#62;=&#60;span class=&#34;st0&#34;&#62;&#34;http://maven.apache.org/POM/4.0.0 
+  http://maven.apache.org/xsd/maven-4.0.0.xsd&#34;&#60;/span&#62;
+&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;modelVersion&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;4.0.0&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/modelVersion&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+ 
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;groupId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;your.group.id&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/groupId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;artifactId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;jar-id&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/artifactId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;version&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;1.0-SNAPSHOT&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/version&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;packaging&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;bundle&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/packaging&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62; &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;coMULTI&#34;&#62;&#38;lt;!-- we want to produce an OSGi bundle --&gt;&#60;/span&#62;&#60;/span&#62;
+ 
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;properties&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;project&#60;/span&#62;.build.sourceEncoding&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;UTF-8&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/project&#60;/span&#62;.build.sourceEncoding&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/properties&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+ 
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;repositories&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+      &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;coMULTI&#34;&#62;&#38;lt;!-- we are wrapping a JAR from NetBeans Maven repository --&gt;&#60;/span&#62;&#60;/span&#62;
+      &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;repository&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;id&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;netbeans&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/id&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;name&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;NetBeans&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/name&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;url&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;http://bits.netbeans.org/maven2/&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/url&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+      &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/repository&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/repositories&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+ 
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;dependencies&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;coMULTI&#34;&#62;&#38;lt;!-- specify the dependency you want to wrap as OSGi bundle --&gt;&#60;/span&#62;&#60;/span&#62;
+        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;dependency&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+            &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;groupId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;org.netbeans.external&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/groupId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+            &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;artifactId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;nb-javac-api&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/artifactId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+            &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;version&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;RELEASE80&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/version&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+            &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;coMULTI&#34;&#62;&#38;lt;!-- we need the dependency only during compilation --&gt;&#60;/span&#62;&#60;/span&#62;
+            &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;scope&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;provided&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/scope&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/dependency&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/dependencies&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+ 
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;build&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;plugins&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+            &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;plugin&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+                &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;groupId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;org.apache.felix&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/groupId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+                &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;artifactId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;maven-bundle-plugin&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/artifactId&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+                &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;version&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;2.3.7&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/version&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+                &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;extensions&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;true&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/extensions&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+                &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;configuration&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+                    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;instructions&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+                        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;coMULTI&#34;&#62;&#38;lt;!-- export the packages that should be externally accessible --&gt;&#60;/span&#62;&#60;/span&#62;
+                        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;Export-Package&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;javax.*&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/Export-Package&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+                        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;coMULTI&#34;&#62;&#38;lt;!-- list other packages that should be included in your bundle --&gt;&#60;/span&#62;&#60;/span&#62;
+                        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;Private-Package&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;com.sun.*&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/Private-Package&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+                    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/instructions&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+                &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/configuration&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+            &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/plugin&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+        &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/plugins&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+    &#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/build&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;
+&#60;span class=&#34;sc3&#34;&#62;&#60;span class=&#34;re1&#34;&#62;&#38;lt;/project&#60;span class=&#34;re2&#34;&#62;&gt;&#60;/span&#62;&#60;/span&#62;&#60;/span&#62;&#60;/pre&#62;&#60;/div&#62;
+&#60;p&#62;And that is all! After building the project, you'll get an &#60;a href=&#34;http://wiki.apidesign.org/wiki/OSGi&#34; title=&#34;OSGi&#34;&#62;OSGi&#60;/a&#62; bundle that contains all the classes from the specified dependency found in &#60;i&#62;exported&#60;/i&#62; and &#60;i&#62;private&#60;/i&#62; packages. Just copy the above text into &#60;b&#62;pom.xml&#60;/b&#62; file and in its directory execute yourself:
+&#60;/p&#62;
+&#60;div style=&#34;text-align: left;&#34; dir=&#34;ltr&#34;&#62;&#60;pre class=&#34;source-bash&#34;&#62;$ mvn package
+$ &#60;span class=&#34;kw2&#34;&#62;unzip&#60;/span&#62; -l target&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;jar-id&#60;span class=&#34;nu0&#34;&#62;-1.0&#60;/span&#62;-SNAPSHOT.jar
+&#60;span class=&#34;co0&#34;&#62;# shortened ...&#60;/span&#62;
+     &#60;span class=&#34;nu0&#34;&#62;4539&#60;/span&#62;  &#60;span class=&#34;nu0&#34;&#62;2014&#60;/span&#62;&#60;span class=&#34;nu0&#34;&#62;-02&#60;/span&#62;&#60;span class=&#34;nu0&#34;&#62;-14&#60;/span&#62; &#60;span class=&#34;nu0&#34;&#62;11&#60;/span&#62;:&#60;span class=&#34;nu0&#34;&#62;52&#60;/span&#62;   com&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;sun&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;&#60;span class=&#34;kw3&#34;&#62;source&#60;/span&#62;&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;util&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;Trees.class
+      &#60;span class=&#34;nu0&#34;&#62;125&#60;/span&#62;  &#60;span class=&#34;nu0&#34;&#62;2014&#60;/span&#62;&#60;span class=&#34;nu0&#34;&#62;-02&#60;/span&#62;&#60;span class=&#34;nu0&#34;&#62;-14&#60;/span&#62; &#60;span class=&#34;nu0&#34;&#62;11&#60;/span&#62;:&#60;span class=&#34;nu0&#34;&#62;52&#60;/span&#62;   com&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;sun&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;&#60;span class=&#34;kw3&#34;&#62;source&#60;/span&#62;&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;util&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;package-info.class
+     &#60;span class=&#34;nu0&#34;&#62;5109&#60;/span&#62;  &#60;span class=&#34;nu0&#34;&#62;2014&#60;/span&#62;&#60;span class=&#34;nu0&#34;&#62;-02&#60;/span&#62;&#60;span class=&#34;nu0&#34;&#62;-14&#60;/span&#62; &#60;span class=&#34;nu0&#34;&#62;11&#60;/span&#62;:&#60;span class=&#34;nu0&#34;&#62;53&#60;/span&#62;   javax&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;annotation&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;processing&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;AbstractProcessor.class
+&#60;span class=&#34;co0&#34;&#62;# ...shortened&#60;/span&#62;
+$ &#60;span class=&#34;kw2&#34;&#62;unzip&#60;/span&#62; -p target&#60;span class=&#34;sy0&#34;&#62;/&#60;/span&#62;jar-id&#60;span class=&#34;nu0&#34;&#62;-1.0&#60;/span&#62;-SNAPSHOT.jar  META&#60;span class=&#34;sy0&#34;&#62;*&#60;/span&#62;MAN&#60;span class=&#34;sy0&#34;&#62;*&#60;/span&#62;
+Manifest-Version: &#60;span class=&#34;nu0&#34;&#62;1.0&#60;/span&#62;
+Bnd-LastModified: &#60;span class=&#34;nu0&#34;&#62;1417267436493&#60;/span&#62;
+Build-Jdk: &#60;span class=&#34;nu0&#34;&#62;1.8&#60;/span&#62;.0_25
+Bundle-ManifestVersion: &#60;span class=&#34;nu0&#34;&#62;2&#60;/span&#62;
+Bundle-Name: jar-id
+Bundle-SymbolicName: your.group.&#60;span class=&#34;kw2&#34;&#62;id&#60;/span&#62;.jar-id
+Bundle-Version: &#60;span class=&#34;nu0&#34;&#62;1.0&#60;/span&#62;&#60;span class=&#34;nu0&#34;&#62;.0&#60;/span&#62;.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: javax.annotation.processing;uses:=&#60;span class=&#34;st0&#34;&#62;&#34;javax.lang.model,java
+ x.tools,javax.lang.model.element,javax.lang.model.util&#34;&#60;/span&#62;;&#60;span class=&#34;re2&#34;&#62;version=&#60;/span&#62;&#60;span class=&#34;st0&#34;&#62;&#34;1.0.0.
+ SNAPSHOT&#34;&#60;/span&#62;,javax.lang.model.util;uses:=&#60;span class=&#34;st0&#34;&#62;&#34;javax.annotation.processing,java
+ x.lang.model,javax.lang.model.element,javax.lang.model.type&#34;&#60;/span&#62;;&#60;span class=&#34;re2&#34;&#62;version=&#60;/span&#62;&#60;span class=&#34;st0&#34;&#62;&#34;1
+ .0.0.SNAPSHOT&#34;&#60;/span&#62;,javax.lang.model;uses:=&#60;span class=&#34;st0&#34;&#62;&#34;javax.lang.model.element&#34;&#60;/span&#62;;versio
+ &#60;span class=&#34;re2&#34;&#62;n=&#60;/span&#62;&#60;span class=&#34;st0&#34;&#62;&#34;1.0.0.SNAPSHOT&#34;&#60;/span&#62;,javax.tools;uses:=&#60;span class=&#34;st0&#34;&#62;&#34;javax.lang.model.element,javax.an
+ notation.processing,javax.lang.model&#34;&#60;/span&#62;;&#60;span class=&#34;re2&#34;&#62;version=&#60;/span&#62;&#60;span class=&#34;st0&#34;&#62;&#34;1.0.0.SNAPSHOT&#34;&#60;/span&#62;,javax.la
+ ng.model.&#60;span class=&#34;kw3&#34;&#62;type&#60;/span&#62;;uses:=&#60;span class=&#34;st0&#34;&#62;&#34;javax.lang.model.element,javax.lang.model&#34;&#60;/span&#62;;version
+ =&#60;span class=&#34;st0&#34;&#62;&#34;1.0.0.SNAPSHOT&#34;&#60;/span&#62;,javax.lang.model.element;uses:=&#60;span class=&#34;st0&#34;&#62;&#34;javax.lang.model.type
+ ,javax.lang.model&#34;&#60;/span&#62;;&#60;span class=&#34;re2&#34;&#62;version=&#60;/span&#62;&#60;span class=&#34;st0&#34;&#62;&#34;1.0.0.SNAPSHOT&#34;&#60;/span&#62;
+Import-Package: javax.annotation.processing,javax.lang.model.element,jav
+ ax.lang.model.&#60;span class=&#34;kw3&#34;&#62;type&#60;/span&#62;,javax.lang.model.util,javax.tools
+Tool: Bnd&#60;span class=&#34;nu0&#34;&#62;-1.50&#60;/span&#62;&#60;span class=&#34;nu0&#34;&#62;.0&#60;/span&#62;&#60;/pre&#62;&#60;/div&#62;
+&#60;p&#62;Wrap your &#60;a href=&#34;http://wiki.apidesign.org/wiki/JAR&#34; class=&#34;mw-redirect&#34; title=&#34;JAR&#34;&#62;JAR&#60;/a&#62;'s into &#60;a href=&#34;http://wiki.apidesign.org/wiki/OSGi&#34; title=&#34;OSGi&#34;&#62;OSGi&#60;/a&#62; bundles and let &#60;a href=&#34;http://wiki.apidesign.org/wiki/Bck2Brwsr&#34; title=&#34;Bck2Brwsr&#34;&#62;Bck2Brwsr&#60;/a&#62; obfuscate them effectively &#60;a href=&#34;http://wiki.apidesign.org/wiki/ObfuscatePerLibrary&#34; title=&#34;ObfuscatePerLibrary&#34;&#62;per library&#60;/a&#62;!
+&#60;/p&#62;&#60;p&#62;--&#60;a href=&#34;http://wiki.apidesign.org/wiki/User:JaroslavTulach&#34; title=&#34;User:JaroslavTulach&#34;&#62;JaroslavTulach&#60;/a&#62; 13:07, 29 November 2014 (UTC)
+&#60;/p&#62;</description>
+	<pubDate>Sat, 29 Nov 2014 13:07:00 +0000</pubDate>
+</item>
+<item>
+	<title>NetBeans DZone: Finance and Investment Software on the NetBeans Platform</title>
+	<guid isPermaLink="false">http://netbeans.dzone.com/184553 at http://netbeans.dzone.com</guid>
+	<link>http://feeds.dzone.com/~r/zones/netbeans/~3/jxKqYP73XYY/aris-nb-1</link>
+	<description>My name is Brian Jenkins, and I am the Chief Financial Officer and Chief Information Officer for Newport Service Corporation. The company provides computer services to several companies in the retail hard assets marketplace; one of which is Monaco Rare Coins (“Monaco”). 
+      Preview Text: 
+    
+            
+                    &#34;Monaco&#34; is a rare coin dealer, which has account...&#60;img src=&#34;http://feeds.feedburner.com/~r/zones/netbeans/~4/jxKqYP73XYY&#34; alt=&#34;&#34; height=&#34;1&#34; width=&#34;1&#34; /&#62;</description>
+	<pubDate>Sat, 29 Nov 2014 08:08:54 +0000</pubDate>
+</item>
+<item>
+	<title>Geertjan's Blog: Highly Personalized Pricing Structures</title>
+	<guid isPermaLink="false">https://blogs.oracle.com/geertjan/entry/highly_personalized_pricing_structures</guid>
+	<link>https://blogs.oracle.com/geertjan/entry/highly_personalized_pricing_structures</link>
+	<description>&#60;p&#62;&#60;img src=&#34;https://blogs.oracle.com/geertjan/resource/crying.jpg&#34; align=&#34;right&#34; /&#62;At &#60;a href=&#34;http://www.droidcon.nl/&#34;&#62;Droidcon&#60;/a&#62;, beginning of this week, the main thing I learned was during a conversation in the hallway right at the end of the conference. According to the two guys I was talking with:&#60;/p&#62; 
+  &#60;ul&#62; 
+    &#60;li&#62;When you go to Booking.com, the price you're offered for your booking depends on whether you own an Android or an iPhone. This can be determined in dozens of different ways, e.g., the searches you do on-line. Apparently iPhone users are wealthier than Android users. Therefore, Booking.com offers a higher price to you if you're an iPhone user but, of course, you'll never know the difference because you're not shown the price offered to the Android user.&#60;br /&#62;&#60;br /&#62;&#60;/li&#62; 
+    &#60;li&#62;When you go to Amazon.com, the price you're offered for a product depends on whether you've searched for the same product on competing sites. I.e., if you've already searched for the book you're looking at on Amazon on some other book-related site, Amazon offers you a lower price, i.e., attempts to undersell the competition. But, of course, you'll never know that was the reason for the price of the book since you'll assume the price you're seeing is the same for everyone.&#60;/li&#62; 
+  &#60;/ul&#62; 
+  &#60;p&#62;I'm sure they factor into the equation that the above perspectives aren't always correct. For example, an Android user might be wealthier than an iPhone user, but out of principles, e.g., related to open source for example, might base their decision on something other than wallet size, while simultaneously the iPhone user might be less wealthy while valuing the iPhone as a status symbol and might therefore pay more for a mobile device than wallet size would suggest. Etc.&#60;/p&#62; 
+  &#60;p&#62;Aside from the error factor at play, there's another way of looking at this scenario, assuming it is true—look at it as a progressive measure whereby the wealthy subsidize the purchases of those with thinner wallets. Again, though, factor in that not everyone fits the analysis and that you may not have been doing comparison-shopping when looking at competing sites for similar products. &#60;/p&#62; 
+  &#60;p&#62;And yet another way of looking at this is to see it as part of the larger trend of individualization, e.g., nowadays people don't watch TV but go to YouTube or other on-line channels for entertainment, choosing a highly individual entertainment track. However, here they have a &#60;i&#62;choice&#60;/i&#62;. I don't like the idea of others choosing for me, e.g., deciding that I'm wealthier and thus offering me higher prices, without telling me about it.&#60;/p&#62; 
+  &#60;p&#62;Then again, all of this assumes that the two random guys in the hallway at Droidcon weren't talking rubbish. But, if it isn't happening already, it soon may be. Maybe a way around it all is to have different devices where you do different kinds of searches to confuse the analyzers. Or just go to the good 'ol travel agent and bookstore, instead of booking and buying on-line, if you can still find them, that is.&#60;br /&#62;&#60;/p&#62;</description>
+	<pubDate>Fri, 28 Nov 2014 22:50:54 +0000</pubDate>
+</item>
+<item>
+	<title>Michael's blog » NetBeans: Web Development with Java and JSF: Bean Validation</title>
+	<guid isPermaLink="false">http://blog.mueller-bruehl.de/?p=2189</guid>
+	<link>http://blog.mueller-bruehl.de/programming/web-development-with-java-and-jsf-bean-validation/</link>
+	<description>As stated before, Books is an application, maintained by just one author, who should know about the expected data. Thus, there is no user interface with immediate response after each input or lots of hints. Of course, those features are … &#60;a href=&#34;http://blog.mueller-bruehl.de/programming/web-development-with-java-and-jsf-bean-validation/&#34;&#62;Continue reading &#60;span class=&#34;meta-nav&#34;&#62;→&#60;/span&#62;&#60;/a&#62;</description>
+	<pubDate>Fri, 28 Nov 2014 21:29:58 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

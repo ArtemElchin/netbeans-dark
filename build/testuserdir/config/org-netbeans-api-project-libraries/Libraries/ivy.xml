@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.netbeans.org/ns/library-declaration/3" version="3.0">
+    <name>ivy</name>
+    <type>j2se</type>
+    <display-name>ivy</display-name>
+    <volume>
+        <type>classpath</type>
+        <resource>jar:file:/E:/Завантаження/ivy/ivy-2.4.0-rc1.jar!/</resource>
+    </volume>
+    <volume>
+        <type>src</type>
+    </volume>
+    <volume>
+        <type>javadoc</type>
+    </volume>
+    <volume>
+        <type>maven-pom</type>
+    </volume>
+    <properties/>
+</library>

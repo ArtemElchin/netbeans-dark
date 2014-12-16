@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="Theme">
+    <module_version install_time="1418762794085" last="true" origin="installer" specification_version="1.0">
+        <file crc="115972830" name="config/Modules/Theme.xml"/>
+        <file crc="127234630" name="modules/Theme.jar"/>
+    </module_version>
+</module>

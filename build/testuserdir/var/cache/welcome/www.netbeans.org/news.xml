@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN" "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+
+    <channel>
+        <title>NetBeans News</title>
+        <description>A selection of news highlights from netbeans.org, opensource IDE and application backplane</description>
+        <link>http://netbeans.org/index.html</link>
+        <language>en</language>
+        <webMaster>webmaster@netbeans.org (NetBeans webmaster)</webMaster>
+        <image>
+        <title>NetBeans News</title>
+        <url>http://netbeans.org/images_www/v5/nb-logo.gif</url>
+        <link>http://netbeans.org/index.html</link>
+        <width>110</width>
+        <height>30</height>
+        </image>
+        <pubDate>Tue, 25 Nov 2014 08:10:02 +0100</pubDate><!-- #TIMESTAMP# -->
+       
+
+          <item>
+    <title>NetBeans and Performance Benchmarking</title>
+    <link>http://lucamerello.wordpress.com/2014/11/17/java-and-jmh-benchmark-library-how-to-setup-a-project-in-netbeans/</link>
+    <description>Learn how to build and run a standalone project in NetBeans using a very powerful code tool library called JMH that allows you to perform benchmarking analysis at nano/micro/milli/macro scale.</description>
+    <pubDate>Tue, 18 Nov 2014 00:00:00 +0100</pubDate>
+  </item>
+
+  <item>
+    <title>AngularJS And More: My Five Favorite NetBeans IDE Features!</title>
+    <link>http://netbeans.dzone.com/articles/5-favorite-netbeans-features-sivaprasad</link>
+    <description>AngularJS, Maven, Java 8, Java EE, the &quot;out of the box&quot; support, and more! Siva Prasad shares his 5 favorite NetBeans features.</description>
+    <pubDate>Tue, 28 Oct 2014 00:00:00 +0100</pubDate>
+  </item>
+
+  <item>
+    <title>Maven And More: My Five Favorite NetBeans IDE Features!</title>
+    <link>http://netbeans.dzone.com/articles/5-favorite-netbeans-features-maxcalderoni</link>
+    <description>Max Calderoni from VMware shares the top features that have convinced him to use and promote NetBeans IDE to his colleagues!</description>
+    <pubDate>Tue, 14 Oct 2014 00:00:00 +0200</pubDate>
+  </item>
+
+
+    </channel>
+</rss>
+
